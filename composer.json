@@ -1,0 +1,16 @@
+{
+    "name": "xing/msdg-flight-guide",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Xing Li",
+            "email": "msuli_1120@ymail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "MSDG\\": "./includes"
+        }
+    }
+}
